@@ -67,7 +67,19 @@ server.post('/login', login);
 const register = require('./routes/sign-in-route')(userStorage);
 server.post('/sign-in', register);
 
-
+const httpsAgent = new https.Agent({
+    keepAlive: true
+});
+ 
+const options = {
+    agent: function (_parsedURL) {
+        if (_parsedURL.protocol == 'http:') {
+            return httpAgent;
+        } else {
+            return httpsAgent;
+        }
+    }
+}
 
 // Auth middleware 
 if (yargs.argv.authentication === 'true') {
@@ -267,6 +279,9 @@ const getAllData = async(subUrl) => { // đây là hàm show
         headers: {
             'Content-Type': 'application/json'
         },
+        agent: null,
+        compress: true,
+        timeout: 0,   
     }
     return await fetchAPi(baseUrl, options);
 }; // function get all data
