@@ -4,7 +4,9 @@
     "description": "JSON Server Package plus JWT Auth",
     "main": "index.js",
     "scripts": {
-        "start": "nodemon server.js"
+        "dev": "nodemon server.js",
+        "start":"server.js"
+
     },
     "repository": {
         "type": "git",
