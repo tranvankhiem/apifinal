@@ -15,6 +15,7 @@
     "homepage": "https://github.com/typicode/json-server",
     "license": "MIT",
     "dependencies": {
+        "bluebird": "^3.7.2",
         "body-parser": "^1.19.0",
         "cors": "^2.8.4",
         "delay": "^2.0.0",
