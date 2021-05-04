@@ -1,0 +1,341 @@
+{
+  "cate": [
+    {
+      "id": 1,
+      "name": "Áo Thun"
+    },
+    {
+      "id": 2,
+      "name": "Áo Tay Dài"
+    },
+    {
+      "id": 3,
+      "name": "Áo Khoác"
+    }
+  ],
+  "products": [
+    {
+      "image": [
+        "  https://product.hstatic.net/1000351433/product/3dbadrabbitsau_5a292f7de34d4272b28f4096517228e0_grande.jpg",
+        "https://product.hstatic.net/1000351433/product/3dbadrabbit_12cd4c7d40114970b92e14f1946b1176_grande.jpg"
+      ],
+      "name": "ao dai",
+      "price": "320000",
+      "category": "2",
+      "id": 21
+    },
+    {
+      "id": 22,
+      "image": [
+        "https://product.hstatic.net/1000351433/product/b06ca889-a567-4865-aa1b-11793f5f9e92_73f52bb5ec9c4e5fa745a71533614277_grande.jpg",
+        "https://product.hstatic.net/1000351433/product/284629d3-b75c-4095-ace6-c1be7d986ff0_7bb658a469e8432c8a2cab3acae205dc_grande.jpg"
+      ],
+      "name": "Bunny",
+      "category": 1,
+      "price": 330000
+    },
+    {
+      "id": 23,
+      "image": [
+        "https://product.hstatic.net/1000351433/product/ca8ae783-08e9-40e2-b2ae-20206116aa64_cb6d4d629567498abb3b8d58581bb548_grande.jpg",
+        "https://product.hstatic.net/1000351433/product/4ea70da2-a5cc-4f3e-8046-8191b3a5b5f6_c95bb32da4a2487abfecbd9614108125_grande.jpg"
+      ],
+      "name": "Bunny Club Long Sleeves",
+      "category": 1,
+      "price": 380000
+    },
+    {
+      "id": 24,
+      "image": [
+        "https://product.hstatic.net/1000351433/product/538401fe-6e90-461c-b787-b0768ae05a56_c43dac4d78b14752901b5f3ec0c3d2ac_grande.jpg",
+        "https://product.hstatic.net/1000351433/product/2b299387-3f57-46e2-bfc4-68df72980fa0_baca69bc4852458da64997a7419cbf1c_grande.jpg"
+      ],
+      "name": "Bunny Club Long Sleeves",
+      "category": 1,
+      "price": 380000
+    },
+    {
+      "id": 25,
+      "image": [
+        "https://product.hstatic.net/1000351433/product/be61aec7-ef14-4846-a93d-0fc6fed1c2f2_4134759ff5214b9c94cabc421fd3632d_grande.jpg",
+        "https://product.hstatic.net/1000351433/product/74177185-3655-4b3e-a912-a43633cb4016_de0b7ebc75ea44b1ad0e66e68e7bdeba_grande.jpg"
+      ],
+      "name": "Bunny Pants",
+      "category": 1,
+      "price": 400000
+    },
+    {
+      "id": 26,
+      "image": [
+        "https://product.hstatic.net/1000351433/product/a9a88cd7-769f-4840-b69c-0e24bbad78d7_29e452b98b3c4a53b40827cdbfaa2168_grande.jpg",
+        "https://product.hstatic.net/1000351433/product/8ec2264b-3eb4-4f3c-bec2-fb8106b8f3b5_41fd0065db804333bae158c17fb0fc6f_grande.jpg"
+      ],
+      "name": "Candy Citizen",
+      "category": 1,
+      "price": 350000
+    },
+    {
+      "id": 27,
+      "image": [
+        "https://product.hstatic.net/1000351433/product/1e9dcbb1-00a1-43ed-9108-b1ff3e3ad859_ae34e8a4d91a4f5fb1a00d048686ffae_grande.jpg",
+        "https://product.hstatic.net/1000351433/product/60d47a3b-95ff-4788-9994-016d7e5413aa_0d5cefbe84514801b849c93b0ae6b398_grande.jpg"
+      ],
+      "name": "Candy Citizen",
+      "category": 1,
+      "price": 350000
+    },
+    {
+      "id": 28,
+      "image": [
+        "https://product.hstatic.net/1000351433/product/dsc09813_1a064e3cf3f84ad2b748c30021330e4e_grande.jpg",
+        "https://product.hstatic.net/1000351433/product/dsc09815_13ec2a46c915467397d6c6e6097c07d1_grande.jpg"
+      ],
+      "name": "Candy Land Tee",
+      "category": 1,
+      "price": 320000
+    },
+    {
+      "id": 29,
+      "image": [
+        "https://product.hstatic.net/1000351433/product/07f9d9b5-1767-450a-b4ac-5c3e80e8b73d_bcfa7d2c988e460dbb5f417d0d93540d_grande.jpg",
+        "https://product.hstatic.net/1000351433/product/3e42926b-4b65-41d0-a965-81a86ae24f33_44b0a8e2ed8748e7b73b2c308853763c_grande.jpg"
+      ],
+      "name": "Donut King",
+      "category": 1,
+      "price": 320000
+    },
+    {
+      "id": 30,
+      "image": [
+        "https://product.hstatic.net/1000351433/product/664ae5d9-871c-4fb7-9e27-f61a5a6865fd_94bed81f631f42b482d7b65d3846c14d_grande.jpg",
+        "https://product.hstatic.net/1000351433/product/1cd44b25-6850-4ad0-9f16-66071f452e46_15c4091f13d44f6cb65724cc739ccdd4_grande.jpg"
+      ],
+      "name": "Donut King Tie Dye",
+      "category": 1,
+      "price": 350000
+    },
+    {
+      "id": 31,
+      "image": [
+        "https://product.hstatic.net/1000351433/product/a166557a-14f1-48e2-950b-61c22ff46a2f_5bf87ec3ccc5418cba1a8607968169f2_grande.jpg",
+        "https://product.hstatic.net/1000351433/product/133d5dfb-e528-40bf-93f6-151f7d381af3_10d8549abf8d4320b67f00f27ba78195_grande.jpg"
+      ],
+      "name": "Dreamer Washed Tee",
+      "category": 1,
+      "price": 380000
+    },
+    {
+      "id": 32,
+      "image": [
+        "https://product.hstatic.net/1000351433/product/badden01_2__2__6b8a7fc93dd843489c1f5a5fb9b73e21_grande.jpg",
+        "https://product.hstatic.net/1000351433/product/badden01_1__1__f3939b501cf14c61b331713ef6ed950d_grande.jpg"
+      ],
+      "name": "Eater",
+      "category": 1,
+      "price": 320000
+    },
+    {
+      "id": 33,
+      "image": [
+        "https://product.hstatic.net/1000351433/product/af88ac165681acdff590_c17857ee326447efbf924cc1b7a603ca_grande.jpg",
+        "https://product.hstatic.net/1000351433/product/5ebf542eaeb954e70da8_f62e0b87a1814c219ec7faf16430fb0b_grande.jpg"
+      ],
+      "name": "Eater",
+      "category": 1,
+      "price": 320000
+    },
+    {
+      "id": 34,
+      "image": [
+        "https://product.hstatic.net/1000351433/product/26eb534e-7cca-4385-8e44-f97a0da913cf_067f303b16d44229a945d44027f5c40c_grande.jpg",
+        "https://product.hstatic.net/1000351433/product/2e5a9825-349c-4ee4-930c-e4f3584cce3a_72ae85fdc11042939d1cc7b672887ad6_grande.jpg"
+      ],
+      "name": "Gummy",
+      "category": 1,
+      "price": 320000
+    },
+    {
+      "id": 35,
+      "image": [
+        "https://product.hstatic.net/1000351433/product/6f3b766e-8955-4a37-91c0-4905cd8b62e6_d6d517bc6b7842839aea4f4b80bd7073_grande.jpg",
+        "https://product.hstatic.net/1000351433/product/077eea99-8b13-4b91-b84e-4493c5b6ab24_9ac1203fa4244f12b37c78845b61a227_grande.jpg"
+      ],
+      "name": "Gummy",
+      "category": 1,
+      "price": 320000
+    },
+    {
+      "id": 36,
+      "image": [
+        "https://product.hstatic.net/1000351433/product/482ad974-8d25-47bb-8ce2-cabb9638bcad_112cde747ded46cebfe15768a1893ab7_grande.jpg",
+        "https://product.hstatic.net/1000351433/product/30fdad89-24a7-49de-ac44-cd55b6a77718_7db3c70363cc48f4bbd97949b6c79e4a_grande.jpg"
+      ],
+      "name": "Gummy",
+      "category": 1,
+      "price": 320000
+    },
+    {
+      "id": 37,
+      "image": [
+        "https://product.hstatic.net/1000351433/product/87970174-ada6-46b6-8ee5-7d4580524c24_6d194e3c6aa148d5ba27eec878869a7b_grande.jpg",
+        "https://product.hstatic.net/1000351433/product/9c41e628-e69c-45ee-bfdb-a39107264bb8_9876a1c93dcf4a12ad77f9352624e14f_grande.jpg"
+      ],
+      "name": "Gummy",
+      "category": 1,
+      "price": 320000
+    },
+    {
+      "id": 38,
+      "image": [
+        "https://product.hstatic.net/1000351433/product/df3746cd-a643-4a1b-82b4-23c863d89184_727dff360d4042eca704c2e4d240cd9c_grande.jpg",
+        "https://product.hstatic.net/1000351433/product/ed51bc65-5347-4789-af33-644a27fefb76_78ed3815d51346d9b5744df44ab4fdae_grande.jpg"
+      ],
+      "name": "Gummy Black Shoulder Bag",
+      "category": 2,
+      "price": 350000
+    },
+    {
+      "id": 39,
+      "image": [
+        "https://product.hstatic.net/1000351433/product/9bf671e9-3432-461d-928f-5979f782d771_4213e88f3caa4740b5ddd055dfc615f8_grande.jpg",
+        "https://product.hstatic.net/1000351433/product/74eb8cae-1b08-48bf-8988-9ee0de9bd83e_b60fe3e4d99641938bc2bb8ad737dac4_grande.jpg"
+      ],
+      "name": "Gummy Camo Beach Bag",
+      "category": 2,
+      "price": 400000
+    },
+    {
+      "id": 40,
+      "image": [
+        "https://product.hstatic.net/1000351433/product/9b8db1d4-cd70-492f-a493-029e137f22cb_ec05397956c24b34b401325460a2788c_grande.jpg",
+        "https://product.hstatic.net/1000351433/product/6f9b2fca-8d2d-4a57-ba83-4c5a9bb1cb11_d2a180b04ead46e89e64dbde604de3be_grande.jpg"
+      ],
+      "name": "Gummy Camo Cap",
+      "category": 2,
+      "price": 190000
+    }
+  ],
+  "cart": [
+    {
+      "address": "176a đông hưng thuận 2 quận 12",
+      "name": "Đinh Trường Phi",
+      "phone": "0123456789",
+      "cart_list": [
+        {
+          "id": 8,
+          "name": "Singature Icon",
+          "price": 9,
+          "image": [
+            "https://product.hstatic.net/1000351433/product/23206f26-940e-45af-8694-9adf38eb9fb5_983d4c241d9144c99108fc584cd553dc_grande.jpg",
+            "https://product.hstatic.net/1000351433/product/1_a0a2a6dc66894a409db66d91760fdec0_grande.jpg",
+            "https://product.hstatic.net/1000351433/product/2_09e6bacfe19640cb941024a570ca0432_grande.jpg"
+          ],
+          "quanity": 1
+        }
+      ],
+      "id_cart": 1610356755181,
+      "date_cart": "2021-01-11T10:59:52.596Z",
+      "id": 1
+    },
+    {
+      "address": "176a đông hưng thuận 2 quận 12",
+      "name": "Đinh Trường Phi",
+      "phone": "0123456789",
+      "cart_list": [
+        {
+          "id": 2,
+          "name": "Counter",
+          "price": 65,
+          "category": "accessories ",
+          "new": true,
+          "image": [
+            "http://product.hstatic.net/1000351433/product/6bf7b650-7cbe-43eb-b5dd-3bfc0c3e221d_34fddc5251154049941f39736c0474d7_grande.jpg",
+            "http://product.hstatic.net/1000351433/product/5131fbf4-5a9f-4587-a1a3-15a868f81815_3df0bbd769ba48bfa3a3d5a4fef22a54_grande.jpg",
+            "http://product.hstatic.net/1000351433/product/bd2ac067-83b2-4e6f-b624-00fb450da5ad_a3a6775bac0f4acfabfc5ca861bb9431_master.jpg"
+          ],
+          "quanity": 1
+        },
+        {
+          "id": 3,
+          "name": "Fantasy Tie Dye",
+          "price": 15,
+          "category": "new",
+          "image": [
+            "https://product.hstatic.net/1000351433/product/a352baec-e717-4b93-9dad-5ac51b7bd379_8b667272947641fba3223765af8c5409_grande.jpg",
+            "https://product.hstatic.net/1000351433/product/9792bb1b-166c-4ea0-a9a2-8ca8986f6b24_18a905a5e6554acb91c51f691df48518_grande.jpg",
+            "https://product.hstatic.net/1000351433/product/3d976c06-d244-4db8-a20d-0da065d2ec59_c02731aba8bd4cd9b7793360f40fcd29_grande.jpg"
+          ],
+          "quanity": 1
+        }
+      ],
+      "id_cart": 1610365918586,
+      "date_cart": "2021-01-11T11:51:58.586Z",
+      "id": 2
+    },
+    {
+      "address": "176a đông hưng thuận 2 quận 12",
+      "name": "Đinh Trường Phi",
+      "phone": "0123456789",
+      "cart_list": [
+        {
+          "id": 2,
+          "name": "Counter",
+          "price": 65,
+          "category": "accessories ",
+          "new": true,
+          "image": [
+            "http://product.hstatic.net/1000351433/product/6bf7b650-7cbe-43eb-b5dd-3bfc0c3e221d_34fddc5251154049941f39736c0474d7_grande.jpg",
+            "http://product.hstatic.net/1000351433/product/5131fbf4-5a9f-4587-a1a3-15a868f81815_3df0bbd769ba48bfa3a3d5a4fef22a54_grande.jpg",
+            "http://product.hstatic.net/1000351433/product/bd2ac067-83b2-4e6f-b624-00fb450da5ad_a3a6775bac0f4acfabfc5ca861bb9431_master.jpg"
+          ],
+          "quanity": 3
+        }
+      ],
+      "id_cart": 1610367026215,
+      "date_cart": "2021-01-11T12:10:26.215Z",
+      "id": 3
+    }
+  ],
+  "blogs": [
+    {
+      "title": "Bài Viết 10000000",
+      "content": "<p>Theo Korea Times, đơn vị kinh doanh mảng nh&agrave; h&agrave;ng của Tập đo&agrave;n Lotte, Lotte GRS đ&atilde; ngừng hoạt động chuỗi hamhurger Lotteria tại Indonesia kể từ năm ngo&aacute;i. Ngo&agrave;i ra, qu&aacute; tr&igrave;nh đ&oacute;ng cửa nh&agrave; cung cấp nguy&ecirc;n liệu thực phẩm của Tập đo&agrave;n Lotte cũng đang diễn ra ở Việt Nam. Trước đ&oacute;, h&atilde;ng n&agrave;y mới th&agrave;nh lập chuỗi cung ứng v&agrave;o đầu năm 2020 tại đ&acirc;y nhằm mở rộng hoạt động kinh doanh của Lotte GRS tại c&aacute;c nước Đ&ocirc;ng Nam &Aacute; l&acirc;n cận.</p>\r\n",
+      "description": "cádsadasdsa",
+      "image": "http://product.hstatic.net/1000351433/product/6bf7b650-7cbe-43eb-b5dd-3bfc0c3e221d_34fddc5251154049941f39736c0474d7_grande.jpg",
+      "date": "2021-04-18T03:42:36.258Z",
+      "id": 1
+    },
+    {
+      "title": "Bài Viết 2",
+      "content": "Thông tin từ Lotte GRS và Lotte Holdings cho hay, chuỗi cửa hàng thức ăn nhanh Lotteria ở nước ngoài đang phải ngừng hoạt động do ảnh hưởng của đại dịch Covid-19. Văn phòng nước ngoài của Lotte GRS tại Indonesia hiện đang được thanh lý. Các thương hiệu nhượng quyền của Lotteria tại Việt Nam đều đã ngừng hoạt động, trụ sở chính tại Seoul cũng đang xem xét khả năng đóng cửa hoạt động kinh doanh trong năm nay.",
+      "description": "test",
+      "date": "2021-01-11T12:10:26.215Z",
+      "image": "http://product.hstatic.net/1000351433/product/6bf7b650-7cbe-43eb-b5dd-3bfc0c3e221d_34fddc5251154049941f39736c0474d7_grande.jpg",
+      "id": 2
+    },
+    {
+      "title": "CÁCH CHỌN GIÀY NỮ ĐÚNG CHUẨN",
+      "content": "<p>C&Aacute;CH CHỌN GI&Agrave;Y NỮ Đ&Uacute;NG CHUẨN 222121312333333333</p>\r\n",
+      "description": "CÁCH CHỌN GIÀY NỮ ĐÚNG CHUẨN",
+      "image": "http://product.hstatic.net/1000351433/product/6bf7b650-7cbe-43eb-b5dd-3bfc0c3e221d_34fddc5251154049941f39736c0474d7_grande.jpg",
+      "date": "2021-04-18T02:47:28.611Z",
+      "id": 3
+    },
+    {
+      "title": "Bài Viết 1",
+      "content": "<p>Theo Korea Times, đơn vị kinh doanh mảng nh&agrave; h&agrave;ng của Tập đo&agrave;n Lotte, Lotte GRS đ&atilde; ngừng hoạt động chuỗi hamhurger Lotteria tại Indonesia kể từ năm ngo&aacute;i. Ngo&agrave;i ra, qu&aacute; tr&igrave;nh đ&oacute;ng cửa nh&agrave; cung cấp nguy&ecirc;n liệu thực phẩm của Tập đo&agrave;n Lotte cũng đang diễn ra ở Việt Nam. Trước đ&oacute;, h&atilde;ng n&agrave;y mới th&agrave;nh lập chuỗi cung ứng v&agrave;o đầu năm 2020 tại đ&acirc;y nhằm mở rộng hoạt động kinh doanh của Lotte GRS tại c&aacute;c nước Đ&ocirc;ng Nam &Aacute; l&acirc;n cận.</p>\r\n",
+      "description": "tádadadsadas                                                ",
+      "image": "http://product.hstatic.net/1000351433/product/6bf7b650-7cbe-43eb-b5dd-3bfc0c3e221d_34fddc5251154049941f39736c0474d7_grande.jpg",
+      "date": "2021-04-18T03:33:07.151Z",
+      "id": 4
+    },
+    {
+      "title": "Bài Viết 1",
+      "content": "<p>Theo Korea Times, đơn vị kinh doanh mảng nh&agrave; h&agrave;ng của Tập đo&agrave;n Lotte, Lotte GRS đ&atilde; ngừng hoạt động chuỗi hamhurger Lotteria tại Indonesia kể từ năm ngo&aacute;i. Ngo&agrave;i ra, qu&aacute; tr&igrave;nh đ&oacute;ng cửa nh&agrave; cung cấp nguy&ecirc;n liệu thực phẩm của Tập đo&agrave;n Lotte cũng đang diễn ra ở Việt Nam. Trước đ&oacute;, h&atilde;ng n&agrave;y mới th&agrave;nh lập chuỗi cung ứng v&agrave;o đầu năm 2020 tại đ&acirc;y nhằm mở rộng hoạt động kinh doanh của Lotte GRS tại c&aacute;c nước Đ&ocirc;ng Nam &Aacute; l&acirc;n cận.</p>\r\n",
+      "description": "saddsadsadsadsa\r\n                                                ",
+      "image": "http://product.hstatic.net/1000351433/product/6bf7b650-7cbe-43eb-b5dd-3bfc0c3e221d_34fddc5251154049941f39736c0474d7_grande.jpg",
+      "date": "2021-04-18T03:33:58.051Z",
+      "id": 5
+    }
+  ]
+}
