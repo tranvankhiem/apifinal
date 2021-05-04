@@ -31,12 +31,12 @@ const router = jsonServer.router('db.json');
 const middlewares = jsonServer.defaults();
 const express = require('express');
 const fetch = require('node-fetch');
-
 const Bluebird = require('bluebird');
 
+const http = require('http');
 fetch.Promise = Bluebird;
 
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 4000;
 
 // bodyParser, load json-server instance to use in this module
 server.use(jsonServer.bodyParser)
@@ -67,7 +67,7 @@ server.post('/login', login);
 const register = require('./routes/sign-in-route')(userStorage);
 server.post('/sign-in', register);
 
-const httpsAgent = new https.Agent({
+const httpsAgent = new http.Agent({
     keepAlive: true
 });
  
